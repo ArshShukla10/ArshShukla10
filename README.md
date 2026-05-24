@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Arsh 
 
-<!--
-**ArshShukla10/ArshShukla10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in AI/ML, Computer Vision, intelligent systems, and signal processing.
 
-Here are some ideas to get you started:
+## Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Signal Processing
+* FFT & PSD Analysis
+* Computer Vision
+* Probability-based AI Systems
+* Python Development
+
+## Projects
+
+* OptiSense-ML
+* EEG Signal Processing
+* Random Forest Classification Systems
+
+## Technologies
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* SciPy
+* Scikit-learn
+* Google Colab
+
+## Currently Learning
+
+* OpenCV
+* Advanced ML workflows
+* Real-world AI system design
+* Intelligent multimodal systems
